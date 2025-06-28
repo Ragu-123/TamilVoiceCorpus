@@ -1,11 +1,12 @@
----
 # 🗣️ TamilVoiceCorpus - Open Tamil Speech Dataset
 
 📍 Dataset on Hugging Face: [ragunath-ravi/TamilVoiceCorpus](https://huggingface.co/datasets/ragunath-ravi/TamilVoiceCorpus)
 
-**TamilVoiceCorpus** is an open-source Tamil speech dataset, inspired by Common Voice, and built from publicly available sources. It is intended for use in training and evaluating automatic speech recognition (ASR) systems and other speech processing models for the Tamil language.
+**TamilVoiceCorpus** is an open-source Tamil speech dataset, and built from publicly available sources. It is intended for use in training and evaluating automatic speech recognition (ASR) systems and other speech processing models for the Tamil language.
 
+---
 
+---
 
 dataset_info:
 - config_name: AmbientVox
